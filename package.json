@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Ismet Can Biyik's developer business card - run 'npx ismetcan' to see profile",
   "main": "index.js",
+  "homepage": "https://ismetcanbyk.me",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ismetcanbyk/ismetcan.git"
+  },
   "bin": {
     "ismetcan": "./index.js"
   },
