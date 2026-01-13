@@ -1,0 +1,13 @@
+# Git files
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Documentation (optional, comment out if you want to include README)
+# README.md

@@ -1,0 +1,35 @@
+{
+  "name": "ismetcan",
+  "version": "1.0.0",
+  "description": "Ismet Can Biyik's developer business card - run 'npx ismetcan' to see profile",
+  "main": "index.js",
+  "bin": {
+    "ismetcan": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "business-card",
+    "cli",
+    "developer",
+    "portfolio",
+    "terminal",
+    "cv",
+    "resume"
+  ],
+  "author": "Ismet Can Biyik",
+  "license": "MIT",
+  "dependencies": {
+    "@clack/prompts": "^0.11.0",
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.3.2",
+    "open": "^11.0.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
