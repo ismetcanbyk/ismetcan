@@ -1,6 +1,6 @@
 {
   "name": "ismetcan",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ismet Can Biyik's developer business card - run 'npx ismetcan' to see profile",
   "main": "index.js",
   "homepage": "https://ismetcanbyk.me",
