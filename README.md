@@ -1,5 +1,9 @@
 # ismetcan
 
+[![npm version](https://img.shields.io/npm/v/ismetcan.svg?style=flat-square)](https://www.npmjs.com/package/ismetcan)
+[![npm downloads](https://img.shields.io/npm/dm/ismetcan.svg?style=flat-square)](https://www.npmjs.com/package/ismetcan)
+[![license](https://img.shields.io/npm/l/ismetcan.svg?style=flat-square)](https://github.com/ismetcanbyk/ismetcan/blob/main/LICENSE)
+
 > **Interactive terminal CV of İsmet Can Bıyık — Software Engineer focused on real-world backend and full-stack systems**
 
 Run this command to see my developer profile in your terminal:
